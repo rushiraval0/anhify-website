@@ -1,0 +1,8 @@
+{
+  "hostname": "ftp.anhify.in",
+  "username": "dev@anhify.in",
+  "password": "daa~nJxfnSU)",
+  "remote": "/home/anhitits/public_html",
+  "local": "build",
+  "port": 21
+}

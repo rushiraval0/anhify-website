@@ -1,0 +1,12 @@
+
+{
+  "user": "dev@anhify.in",
+  "password": "daa~nJxfnSU)",
+  "host": "ftp.anhify.in",
+  "port": 21,
+  "localRoot": "./build",
+  "remoteRoot": "/home/anhitits/public_html",
+  "include": ["**/*"],
+  "deleteRemote": false,
+  "forcePasv": true
+}
