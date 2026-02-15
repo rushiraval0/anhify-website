@@ -51,7 +51,7 @@ const Footer = () => {
               </div>
               <div className="text-gray-600 text-sm">
                 <p className="font-medium mb-2">Get in touch:</p>
-                <p>Email: director@anhify.in</p>
+                <p>Email: director1@anhify.in</p>
                 <p>Phone: +91 99980 57613</p>
                 <p>Hours: 24/7 Support</p>
               </div>
